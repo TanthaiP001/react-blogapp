@@ -50,7 +50,7 @@ export default function BlogCreate() {
       <CssBaseline />
       <Container maxWidth="sm" sx={{ p: 2 }}>
         <Typography variant="h6" gutterBottom component="div">
-          Update Blog
+          Create Blog Draft
         </Typography>
         <form onSubmit={handleSubmit}>
           <Grid container spacing={2}>

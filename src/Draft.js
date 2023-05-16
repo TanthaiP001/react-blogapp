@@ -73,6 +73,7 @@ export default function Blog() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg" sx={{ p: 2 }}>
+      <Box alignItems="center">Draft Page</Box>
         <Paper
           sx={{ p: 2 }}
           style={{ backgroundColor: "#9E7682", color: "white" }}
@@ -90,7 +91,7 @@ export default function Blog() {
             <Link href="draft">
               <Button
                 variant="contained"
-                style={{ backgroundColor: "#7D5E67", color: "white" }}
+                style={{ backgroundColor: "#9E7682", color: "white" }}
                 sx={{ flexGrow: 1 }}
               >
                 Draft

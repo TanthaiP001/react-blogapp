@@ -76,6 +76,7 @@ export default function Blog() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg" sx={{ p: 2 }}>
+      <Box alignItems="center">Publish Page</Box>  
         <Paper
           sx={{ p: 2 }}
           style={{ backgroundColor: "#9E7682", color: "white" }}
