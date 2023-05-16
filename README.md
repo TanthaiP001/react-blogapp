@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+React js(Main App)
+MUI(Ui library)
+React Roter Dom(React Roter Dom)
+npm start to start project
 ## Available Scripts
 
 In the project directory, you can run:
