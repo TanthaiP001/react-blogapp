@@ -1,9 +1,9 @@
 # Getting Started with React Blog App
 
-React js(Main App)
-MUI(Ui library)
-React Roter Dom(React Roter Dom)
-npm start to start project
+React js(Main App)\
+MUI(Ui library)\
+React Roter Dom(React Roter Dom)\
+npm start to start project\
 ## Available Scripts
 
 In the project directory, you can run:
