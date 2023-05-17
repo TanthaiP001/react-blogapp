@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React Blog App
 
 React js(Main App)
 MUI(Ui library)
