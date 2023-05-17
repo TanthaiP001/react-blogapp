@@ -28,5 +28,10 @@ More for infomation of React Roter Dom,[React Router Dom](https://reactrouter.co
 ## Project Structure
 
 Everything you have to see is in src Section.\
-The files of each component are contained within src with the extension .js (App.js, Draft.js and etc)
+The files of each component are contained within src with the extension .js (App.js, Draft.js and etc)\
+Basically, app.js pages use routers to access each screen. The first page will be a Blog.js page with publish status set to true.\
+For more infomation you can checkout my code.it's a simple method that i have learnd to creat this blog app.\
+Thank you for your interest in my project.feel free to ask me if you have a question.Thank a lot!!
+
+
 
