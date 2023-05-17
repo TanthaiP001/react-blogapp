@@ -27,6 +27,6 @@ More for infomation of React Roter Dom,[React Router Dom](https://reactrouter.co
 
 ## Project Structure
 
-Everything you have to see is in src Section.
+Everything you have to see is in src Section.\
 The files of each component are contained within src with the extension .js (App.js, Draft.js and etc)
 
