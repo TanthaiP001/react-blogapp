@@ -1,4 +1,3 @@
-# Getting Started with React Blog App
 # Required Library
 React js(Main App)\
 MUI(Ui library)\
@@ -24,4 +23,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 To understand more about Mui, chect out the [Mui documentation](https://mui.com/).
 
+More for infomation of React Roter Dom,[React Router Dom](https://reactrouter.com/en/main) 
+
+## Project Structure
+
+Everything you have to see is in src Section.
+The files of each component are contained within src with the extension .js (App.js, Draft.js and etc)
 
