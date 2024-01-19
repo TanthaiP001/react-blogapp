@@ -4,10 +4,7 @@ MUI(Ui library)\
 React Roter Dom(React Roter Dom)\
 npm start to start project
 ## Available Scripts
-![419904781_348703307985397_8795183456857312847_n](https://github.com/TanthaiP001/react-blogapp/assets/133635994/ff7ffa1c-e915-4d46-8bf9-16f752856a99)
-
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
